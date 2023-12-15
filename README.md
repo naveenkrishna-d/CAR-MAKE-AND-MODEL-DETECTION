@@ -36,11 +36,11 @@ To begin:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/CAR-MAKE-AND-MODEL-DETECTION.git
+   git clone https://github.com/your-username/car-make-and-model-detection.git
    ```
 2. Navigate to the directory:
    ```bash
-   cd car-make-model-detection
+   cd car-make-and-model-detection
    ```
 
 ## Usage
