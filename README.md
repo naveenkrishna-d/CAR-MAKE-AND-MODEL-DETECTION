@@ -1,4 +1,4 @@
-# CAR-MAKE-AND-MODEL-DETECTION-USING-DEEP-CNN
+# CAR MAKE AND MODEL DETECTION USING DEEP CNN
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -36,7 +36,7 @@ To begin:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/car-make-model-detection.git
+   git clone https://github.com/your-username/CAR-MAKE-AND-MODEL-DETECTION.git
    ```
 2. Navigate to the directory:
    ```bash
